@@ -32,8 +32,6 @@ def computer_choice_rock():
 
 
 # Define Function when computer chooses Paper
-
-#Define Function when computer chooses rock
 def computer_choice_rock():
     user_choice = raw_input("1 for rock, 2 for paper, 3 for scissors: ")
     if user_choice == "1":
@@ -50,7 +48,6 @@ def computer_choice_rock():
         computer_choice_rock()
 
 # Define Function when computer chooses Scissors
-
 def computer_choice_rock():
     user_choice = raw_input("1 for rock, 2 for paper, 3 for scissors: ")
     if user_choice == "1":
